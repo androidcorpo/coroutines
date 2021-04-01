@@ -9,7 +9,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "net.androidcorpo.understandingcoroutines"
+        applicationId "com.androidcorpo.coroutines"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
